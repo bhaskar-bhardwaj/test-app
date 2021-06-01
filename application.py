@@ -10,3 +10,7 @@ def hello_world():
 @application.post('/test')
 def post_method():
     return json.dumps({'status':'ok','results':'no results'})
+
+@application.post('/test/1')
+def post_method1():
+    return 'hello there'
