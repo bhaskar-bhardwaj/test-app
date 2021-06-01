@@ -5,7 +5,6 @@ importlib-metadata
 itsdangerous
 Jinja2
 MarkupSafe
-pkg-resources
 typing-extensions
 Werkzeug
 zipp
