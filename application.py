@@ -9,4 +9,4 @@ def hello_world():
 
 @application.post('/test')
 def post_method():
-    return "test data"
+    return json.dumps({'status':'ok','results':'no results'})
