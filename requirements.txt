@@ -1,10 +1,15 @@
+certifi
+chardet
 click
 dataclasses
 Flask
+idna
 importlib-metadata
 itsdangerous
 Jinja2
 MarkupSafe
+requests
 typing-extensions
+urllib3
 Werkzeug
 zipp
