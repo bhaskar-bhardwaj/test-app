@@ -8,5 +8,5 @@ def hello_world():
    return "Hello World V2"
 
 @application.post('/test')
-def hello_world():
+def post_method():
     return "test data"
